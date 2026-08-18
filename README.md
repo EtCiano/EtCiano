@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 🎨 ASCII ART DO NOME DE USUÁRIO -->
+<!-- ASCII ART DO NOME DE USUÁRIO -->
 <!-- Gere o seu em: https://patorjk.com/software/taag/ (fonte "ANSI Shadow" fica ótima) -->
 <!-- Cole o resultado dentro do bloco abaixo -->
 
@@ -13,7 +13,7 @@
                                       
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Dev+%7C+Criador(a)+%7C+Eterno(a)+aprendiz;Sempre+debugando+algo+novo+%F0%9F%90%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Dev+%7C+Criador(a)+%7C+Eterno(a)+aprendiz;Sempre+debugando+algo+novo" alt="Typing SVG" />
 
 </div>
 
@@ -39,7 +39,7 @@ objetivo: git commit -m "melhorar sempre"
 
 ### `> stats.render()`
 
-<img src="https://github-readme-stats.vercel.app/api?username=EtCiano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=EtCiano&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -47,7 +47,7 @@ objetivo: git commit -m "melhorar sempre"
 
 ---
 
-## 🧠 `stack --list`
+## `stack --list`
 
 <div align="center">
 
@@ -55,13 +55,13 @@ objetivo: git commit -m "melhorar sempre"
 <!-- Lista completa de ícones disponíveis: https://skillicons.dev -->
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,go,vscode,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,go,vscode,git,github,linux&theme=dark" />
 </a>
 
 </div>
 
 <details>
-<summary><b>🗂️ ver stack completa por categoria</b></summary>
+<summary><b>Ver stack completa por categoria</b></summary>
 <br>
 
 <div align="center">
@@ -83,20 +83,20 @@ objetivo: git commit -m "melhorar sempre"
 
 ---
 
-## 🎓 `courses.forEach(c => c.completed)`
+## `courses.forEach(c => c.completed)`
 
 <!-- Cada curso vira um "commit" — edite os campos abaixo -->
 
 ```diff
-+ [x] React do Zero ao Deploy — Origamid              (2023)
-+ [x] Formação Python Developer — Alura                (2023)
-+ [x] AWS Cloud Practitioner — Amazon                  (2024)
-+ [x] Estrutura de Dados & Algoritmos — Udemy           (2024)
++ [x] React do Zero ao Deploy — Origamid (2023)
++ [x] Formação Python Developer — Alura (2023)
++ [x] AWS Cloud Practitioner — Amazon (2024)
++ [x] Estrutura de Dados & Algoritmos — Udemy (2024)
 ! [ ] Rust para Sistemas de Alta Performance — em andamento
 ```
 
 <details>
-<summary><b>📜 clique para expandir certificações</b></summary>
+<summary><b>Clique para expandir certificações</b></summary>
 
 | Certificação | Instituição | Ano | Link |
 |---|---|:---:|:---:|
@@ -109,11 +109,11 @@ objetivo: git commit -m "melhorar sempre"
 
 ---
 
-## 🔥 `github.streak() && github.trophies()`
+## `github.streak() && github.trophies()`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EtCiano&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=EtCiano&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtCiano&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
@@ -124,15 +124,15 @@ objetivo: git commit -m "melhorar sempre"
 
 ---
 
-## 🌱 `current.status`
+## `current.status`
 
 ```js
 const commigo = {
-  trabalhandoEm: "algum projeto secreto 👀",
+  trabalhandoEm: "algum projeto secreto",
   aprendendo: ["Rust", "System Design"],
   colaboracaoAberta: ["projetos open-source", "ideias malucas"],
   perguntaMe: "sobre front-end, produtividade ou café",
-  formaDeContato: "veja os links abaixo ⬇️"
+  formaDeContato: "veja os links abaixo"
 };
 ```
 
@@ -140,7 +140,7 @@ const commigo = {
 
 <div align="center">
 
-### 📡 `connect --to=me`
+### `connect --to=me`
 
 <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
@@ -153,6 +153,6 @@ const commigo = {
 
 <br>
 
-<sub>⭐ se curtiu esse perfil, considera dar uma estrela em algum dos meus repositórios!</sub>
+<sub>Se curtiu esse perfil, considera dar uma estrela em algum dos meus repositórios!</sub>
 
 </div>
