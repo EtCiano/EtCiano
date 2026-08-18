@@ -1,75 +1,168 @@
-# SeuUsuario
+<div align="center">
+
+<!-- 🎨 ASCII ART DO NOME DE USUÁRIO -->
+<!-- Gere o seu em: https://patorjk.com/software/taag/ (fonte "ANSI Shadow" fica ótima) -->
+<!-- Cole o resultado dentro do bloco abaixo -->
 
 ```
-     _____                 _____              
-    |  _  |___ _ _        |  _  |___ _ _        
-    |     | -_| | |       |     |___| | |       
-    |__|__|___|\_/        |__|__|_____|\_/        
+ ██████╗ ██████╗ ██╗      ██████╗  ██████╗██╗   ██╗███████╗
+██╔════╝██╔═══██╗██║     ██╔═══██╗██╔════╝██║   ██║██╔════╝
+██║     ██║   ██║██║     ██║   ██║██║     ██║   ██║█████╗  
+██║     ██║   ██║██║     ██║   ██║██║     ██║   ██║██╔══╝  
+╚██████╗╚██████╔╝███████╗╚██████╔╝╚██████╗╚██████╔╝███████╗
+ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
-<!-- =====================================================
-     AREA DE CODIGO VISUAL / ARTE ASCII / SVG ANIMADO
-     Substitua o bloco acima ou este comentario por algo seu:
-     - uma arte ASCII personalizada (ex: geradores como
-       https://patorjk.com/software/taag)
-     - um SVG de "digitação" (ex: readme-typing-svg)
-     - um terminal simulado, um gif, um snake game do GitHub etc.
-     ===================================================== -->
+<!-- troque SEU-USUARIO acima pelo seu ASCII gerado -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Dev+%7C+Criador(a)+%7C+Eterno(a)+aprendiz;Sempre+debugando+algo+novo+%F0%9F%90%9B" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## stack.json
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```json
-{
-  "linguagens": ["Python", "JavaScript", "TypeScript", "Java", "SQL"],
-  "frontend": ["React", "HTML5", "CSS3"],
-  "backend": ["Node.js"],
-  "ferramentas": ["Git", "Docker", "Linux"]
-}
+### `> whoami`
+
+```yaml
+nome: Seu Nome Aqui
+pronomes: ele/ela/elu
+localizacao: Sua Cidade, BR
+foco_atual: Aprendendo algo novo todo dia
+diversao: café + código + música lo-fi
+objetivo: git commit -m "melhorar sempre"
 ```
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-> Edite badges e o JSON acima removendo ou adicionando o que você domina.
-> Mais icones em: https://simpleicons.org ou https://shields.io
+### `> stats.render()`
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## qualificacoes.log
+## 🧠 `stack --list`
 
+<div align="center">
+
+<!-- Ícones via skillicons.dev — troque a lista após ?i= pelas suas tecnologias -->
+<!-- Lista completa de ícones disponíveis: https://skillicons.dev -->
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,docker,figma,mysql&theme=dark" />
+</a>
+
+</div>
+
+<details>
+<summary><b>🗂️ ver stack completa por categoria</b></summary>
+<br>
+
+<div align="center">
+
+**Linguagens**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" />
+
+**Front-end**
+<br>
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&theme=dark" />
+
+**Back-end & Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,aws,nginx&theme=dark" />
+
+**Banco de Dados**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+
+**Ferramentas**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
+
+</div>
+</details>
+
+---
+
+## 🎓 `courses.forEach(c => c.completed)`
+
+<!-- Cada curso vira um "commit" — edite os campos abaixo -->
+
+```diff
++ [x] React do Zero ao Deploy — Origamid              (2023)
++ [x] Formação Python Developer — Alura                (2023)
++ [x] AWS Cloud Practitioner — Amazon                  (2024)
++ [x] Estrutura de Dados & Algoritmos — Udemy           (2024)
+! [ ] Rust para Sistemas de Alta Performance — em andamento
 ```
-[OK] Nome do Curso ......................... Instituicao, Ano
-[OK] Nome da Certificacao .................. Instituicao, Ano
-[..] Nome da Formacao/Graduacao ............ Instituicao, Ano (em andamento)
-[OK] Curso Complementar ..................... Plataforma, Ano
+
+<details>
+<summary><b>📜 clique para expandir certificações</b></summary>
+
+| Certificação | Instituição | Ano | Link |
+|---|---|:---:|:---:|
+| React Avançado | Origamid | 2023 | [ver](#) |
+| Python Developer | Alura | 2023 | [ver](#) |
+| AWS Cloud Practitioner | Amazon | 2024 | [ver](#) |
+| Scrum Fundamentals | Scrum.org | 2024 | [ver](#) |
+
+</details>
+
+---
+
+## 🔥 `github.streak() && github.trophies()`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🌱 `current.status`
+
+```js
+const commigo = {
+  trabalhandoEm: "algum projeto secreto 👀",
+  aprendendo: ["Rust", "System Design"],
+  colaboracaoAberta: ["projetos open-source", "ideias malucas"],
+  perguntaMe: "sobre front-end, produtividade ou café",
+  formaDeContato: "veja os links abaixo ⬇️"
+};
 ```
 
 ---
 
-## stats
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark" alt="Estatisticas do GitHub"/>
-</p>
+### 📡 `connect --to=me`
 
----
+<a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:seuemail@email.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://discord.com/users/SEU-DISCORD"><img src="https://skillicons.dev/icons?i=discord" /></a>
 
-## contato
+<br><br>
 
-```
-site      -> seusite.com
-linkedin  -> linkedin.com/in/seuusuario
-email     -> seuemail@exemplo.com
-```
+![Snake animation](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<sub>⭐ se curtiu esse perfil, considera dar uma estrela em algum dos meus repositórios!</sub>
+
+</div>
