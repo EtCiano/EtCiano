@@ -18,7 +18,7 @@ o888ooooood8   "888"  `Y8bood8P'  o888o `Y888""8o o888o o888o `Y8bod8P'
 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Dev+%7C+Criador(a)+%7C+Eterno(a)+aprendiz;Sempre+debugando+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Desenvolvedor+%7C+Criador+%7C+Nerd" alt="Typing SVG" />
 
 </div>
 
