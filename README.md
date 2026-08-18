@@ -151,7 +151,14 @@ comigo = {
 
 <br><br>
 
-![Snake animation](https://raw.githubusercontent.com/EtCiano/EtCiano/output/github-contribution-grid-snake.svg)
+<table align="center" bgcolor="#000000">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/EtCiano/EtCiano/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</td>
+</tr>
+</table>
+
 
 <br>
 
