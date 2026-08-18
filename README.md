@@ -55,7 +55,7 @@ objetivo: git commit -m "melhorar sempre"
 <!-- Lista completa de ícones disponíveis: https://skillicons.dev -->
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,docker,figma,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,go,vscode,git,github,linux&theme=dark" />
 </a>
 
 </div>
@@ -68,23 +68,15 @@ objetivo: git commit -m "melhorar sempre"
 
 **Linguagens**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,cpp,c,go&theme=dark" />
 
-**Front-end**
+**Web**
 <br>
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&theme=dark" />
-
-**Back-end & Infra**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker,aws,nginx&theme=dark" />
-
-**Banco de Dados**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
 **Ferramentas**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" />
 
 </div>
 </details>
