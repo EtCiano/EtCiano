@@ -1,22 +1,33 @@
-# Olá, eu sou o(a) [SeuUsuario] 👋
+# SeuUsuario
 
-<p align="left">
-  <a href="https://seusite.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Meu Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Meu Site"/>
-  </a>
-  <a href="https://linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+```
+     _____                 _____              
+    |  _  |___ _ _        |  _  |___ _ _        
+    |     | -_| | |       |     |___| | |       
+    |__|__|___|\_/        |__|__|_____|\_/        
+```
 
-Breve descrição sobre você: quem é, o que faz, e o que te move no dia a dia como desenvolvedor(a).
+<!-- =====================================================
+     AREA DE CODIGO VISUAL / ARTE ASCII / SVG ANIMADO
+     Substitua o bloco acima ou este comentario por algo seu:
+     - uma arte ASCII personalizada (ex: geradores como
+       https://patorjk.com/software/taag)
+     - um SVG de "digitação" (ex: readme-typing-svg)
+     - um terminal simulado, um gif, um snake game do GitHub etc.
+     ===================================================== -->
 
 ---
 
-## 🛠️ Tecnologias e Linguagens
+## stack.json
+
+```json
+{
+  "linguagens": ["Python", "JavaScript", "TypeScript", "Java", "SQL"],
+  "frontend": ["React", "HTML5", "CSS3"],
+  "backend": ["Node.js"],
+  "ferramentas": ["Git", "Docker", "Linux"]
+}
+```
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -31,30 +42,34 @@ Breve descrição sobre você: quem é, o que faz, e o que te move no dia a dia 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-> Edite os badges acima removendo ou adicionando as tecnologias que você domina.
-> Veja mais ícones disponíveis em: [https://simpleicons.org](https://simpleicons.org) ou [https://shields.io](https://shields.io)
+> Edite badges e o JSON acima removendo ou adicionando o que você domina.
+> Mais icones em: https://simpleicons.org ou https://shields.io
 
 ---
 
-## 🎓 Qualificações e Cursos
+## qualificacoes.log
 
-- **[Nome do Curso]** — Instituição, Ano
-- **[Nome da Certificação]** — Instituição, Ano
-- **[Nome da Formação/Graduação]** — Instituição, Ano (em andamento / concluído)
-- **[Curso Complementar]** — Plataforma (ex: Alura, Udemy, Coursera), Ano
+```
+[OK] Nome do Curso ......................... Instituicao, Ano
+[OK] Nome da Certificacao .................. Instituicao, Ano
+[..] Nome da Formacao/Graduacao ............ Instituicao, Ano (em andamento)
+[OK] Curso Complementar ..................... Plataforma, Ano
+```
 
 ---
 
-## 📊 Estatísticas do GitHub
+## stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=default" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark" alt="Estatisticas do GitHub"/>
 </p>
 
 ---
 
-## 📫 Como me encontrar
+## contato
 
-- 🌐 Site: [seusite.com](https://seusite.com)
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
-- ✉️ Email: seuemail@exemplo.com
+```
+site      -> seusite.com
+linkedin  -> linkedin.com/in/seuusuario
+email     -> seuemail@exemplo.com
+```
