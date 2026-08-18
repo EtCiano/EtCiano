@@ -142,15 +142,6 @@ comigo = {
 
 <div align="center">
 
-### `connect(to="me")`
-
-<a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="mailto:miguelfmellobirck@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://discord.com/users/792139570027823134"><img src="https://skillicons.dev/icons?i=discord" /></a>
-
-<br><br>
-
 <table align="center" bgcolor="#000000">
 <tr>
 <td align="center">
@@ -158,6 +149,15 @@ comigo = {
 </td>
 </tr>
 </table>
+
+<br><br>
+
+### `connect(to="me")`
+
+<a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:miguelfmellobirck@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://discord.com/users/792139570027823134"><img src="https://skillicons.dev/icons?i=discord" /></a>
 
 
 <br>
