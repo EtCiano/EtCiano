@@ -5,15 +5,13 @@
 <!-- Cole o resultado dentro do bloco abaixo -->
 
 ```
- ██████╗ ██████╗ ██╗      ██████╗  ██████╗██╗   ██╗███████╗
-██╔════╝██╔═══██╗██║     ██╔═══██╗██╔════╝██║   ██║██╔════╝
-██║     ██║   ██║██║     ██║   ██║██║     ██║   ██║█████╗  
-██║     ██║   ██║██║     ██║   ██║██║     ██║   ██║██╔══╝  
-╚██████╗╚██████╔╝███████╗╚██████╔╝╚██████╗╚██████╔╝███████╗
- ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
+    ________  _______                 
+   / ____/ /_/ ____(_)___ _____  ____ 
+  / __/ / __/ /   / / __ `/ __ \/ __ \
+ / /___/ /_/ /___/ / /_/ / / / / /_/ /
+/_____/\__/\____/_/\__,_/_/ /_/\____/ 
+                                      
 ```
-
-<!-- troque SEU-USUARIO acima pelo seu ASCII gerado -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Dev+%7C+Criador(a)+%7C+Eterno(a)+aprendiz;Sempre+debugando+algo+novo+%F0%9F%90%9B" alt="Typing SVG" />
 
@@ -41,7 +39,7 @@ objetivo: git commit -m "melhorar sempre"
 
 ### `> stats.render()`
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=EtCiano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
 
 </td>
 </tr>
@@ -123,12 +121,12 @@ objetivo: git commit -m "melhorar sempre"
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EtCiano&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtCiano&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=EtCiano&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -159,7 +157,7 @@ const commigo = {
 
 <br><br>
 
-![Snake animation](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/EtCiano/EtCiano/output/github-contribution-grid-snake.svg)
 
 <br>
 
