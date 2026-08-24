@@ -95,6 +95,7 @@ diversao: Jogos, Música, Programação, TI, RPG
 ! [ ] Desenvolvimento de Sistemas - Senai — em andamento
 ! [ ] Engenharia de Software - Cisco — em andamento
 ! [ ] Rede de Computadores - Cisco — em andamento
+! [ ] Infraestrutura Web - Danki Code — em andamento
 ```
 
 <!-- <details>
